@@ -1,5 +1,5 @@
 ========
-21cmFAST
+21cmFAST by Mariano
 ========
 
 .. start-badges
