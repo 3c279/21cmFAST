@@ -1,5 +1,5 @@
 ========
-21cmFAST by Octavio 
+21cmFAST by Octavio 2 
 ========
 
 .. start-badges
